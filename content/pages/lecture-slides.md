@@ -86,7 +86,7 @@ RK
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Mechanochemistry at the Molecular Scale (PDF - 3.7MB)]({{< baseurl >}}/resources/mit20_310js15_lecture4)
+[Mechanochemistry at the Molecular Scale (PDF - 3.7MB)]({{< baseurl >}}/resources/mit20_310js15_lecture4)
 
 
 {{< tdclose >}}
